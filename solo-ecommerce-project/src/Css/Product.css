@@ -1,0 +1,19 @@
+#main {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+ 
+  
+}
+.card {
+   margin: auto;
+   justify-content: space-between;
+   /* border: 2px solid black; */
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.card img {
+ 
+ width: 350px;
+ height: 400px;
+  
+}
